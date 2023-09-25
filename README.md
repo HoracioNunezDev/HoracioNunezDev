@@ -14,6 +14,6 @@ Si deseas conocer más sobre mis habilidades y ver otros proyectos interesantes,
 
 ## ¡Contáctame! 📩
 
-¡Estoy emocionado de conectar con otros desarrolladores y profesionales del sector! Si deseas discutir oportunidades de colaboración, proyectos emocionantes o simplemente deseas saludar, no dudes en ponerte en contacto conmigo. Puedes enviarme un correo electrónico a [nunezhoraciodev@gmail.com](nunezhoraciodev@gmail.com) o encontrarme en [LinkedIn](https://www.linkedin.com/in/horaciorodolfonunez/).
+¡Estoy emocionado de conectar con otros desarrolladores y profesionales del sector! Si deseas discutir oportunidades de colaboración, proyectos emocionantes o simplemente deseas saludar, no dudes en ponerte en contacto conmigo. Puedes enviarme un correo electrónico a [nunezhoraciodev@gmail.com](nunezhoraciodeveloper@gmail.com) o encontrarme en [LinkedIn](https://www.linkedin.com/in/horaciorodolfonunez/).
 
 ¡Gracias por visitar mi perfil! ¡Espero que disfrutes explorando mis proyectos tanto como yo disfruté creándolos! 😄
